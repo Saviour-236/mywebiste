@@ -1,0 +1,103 @@
+.body{
+    background-image:url(https://e0.pxfuel.com/wallpapers/456/657/desktop-wallpaper-a-black-background-website-2021-live-background-black-background-best-industrial-black.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:100%;
+    width:100%;
+    text-align:center;
+    display:flex;
+    position:relative;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.resume{
+    display: flex;
+    flex-direction: column;
+    text-align:left;
+    background-color: rgb(255, 255, 255,0.6);
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+    border-radius:3px;
+    height:100vh;
+    width:400px;
+    margin:auto;
+    height:auto;
+    width:600px;
+    position:relative;
+    padding:20px;
+}
+.logoImg{
+    height:90px;
+    border-radius:30px;
+}
+.nameP{
+    font-size:30px;
+    font-weight:bold;
+    display:inline-block;
+}
+hr{
+    background-color:black;
+    height:1px;
+}
+.addressP{
+    font-weight:bold;
+}
+.emailP{
+    font-weight:bold;
+}
+.phoneNoP{
+    font-weight:bold;
+}
+.mySocialsP{
+    font-weight:bold;
+}
+.educationalSkillsP{
+    font-weight:bolder;
+}
+.additionalSkillsP{
+    font-weight: bold;
+}
+.moreAboutMeP{
+    font-weight:bold;
+}
+.facebookIcon{
+    height: 30px;
+    display:inline-block;
+}
+.linkedInIcon{
+    height:30px;
+    display:inline-block;
+}
+.mySocialsUl{
+}
+.instagramLi{
+    display:inline-block;
+    margin:-10px 10px;
+}
+.facebookLi{
+    display:inline-block;
+    margin:0px 10px;
+}
+.linkedInLi{
+    display:inline-block;
+    margin:0px 10px;
+}
+.instagramIcon{
+    height:30px;
+    display:inline-block;
+}
+.addressDiv{
+}
+.personalInfo{
+    margin:auto;
+    text-align:left;
+}
+.logo{
+    text-align: left;
+    display:flex;
+}
+.mail{
+}
+.mailText{
+}
+.phoneNo{
+    margin:auto;
+}
