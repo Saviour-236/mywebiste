@@ -25,7 +25,7 @@
     padding:20px;
 }
 .logoDiv{
-  
+  justify-content:center;
 }
 .logoImg{
     height:90px;
