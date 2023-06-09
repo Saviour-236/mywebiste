@@ -24,6 +24,9 @@
     position:relative;
     padding:20px;
 }
+.logoDiv{
+    display:block;
+}
 .logoImg{
     height:90px;
     border-radius:30px;
@@ -49,6 +52,20 @@ hr{
 .mySocialsP{
     font-weight:bold;
 }
+.projectsP{
+    font-weight:bold;
+}
+.caluculater{
+    font-weight:bold;
+}
+.caluculaterDiscriptionDiv{
+    display:none;
+
+}
+.caluculater:hover  .caluculaterDiscriptionDiv{
+    display:block;
+    color:red;
+}
 .educationalSkillsP{
     font-weight:bolder;
 }
@@ -67,6 +84,7 @@ hr{
     display:inline-block;
 }
 .mySocialsUl{
+    display:block;
 }
 .instagramLi{
     display:inline-block;
@@ -85,6 +103,7 @@ hr{
     display:inline-block;
 }
 .addressDiv{
+    display:block;
 }
 .personalInfo{
     margin:auto;
@@ -95,9 +114,20 @@ hr{
     display:flex;
 }
 .mail{
+    display:block;
 }
 .mailText{
+    display:block;
 }
 .phoneNo{
     margin:auto;
+}
+.projectsUl{
+    display:inline-flex;
+    list-style-type:none;
+}
+.caluculaterLogoImg{
+    height:3rem;
+    margin:auto;
+    padding:auto;
 }
