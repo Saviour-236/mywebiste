@@ -26,15 +26,18 @@
 }
 .logoDiv{
     display:block;
+    margin:0px;
 }
 .logoImg{
     height:90px;
     border-radius:30px;
+    margin:0px;
 }
 .nameP{
     font-size:30px;
     font-weight:bold;
     display:inline-block;
+    margin:0px;
 }
 hr{
     background-color:black;
@@ -42,24 +45,35 @@ hr{
 }
 .addressP{
     font-weight:bold;
+    padding:0px;
+    margin:0px;
+    margin:3px;
 }
 .emailP{
     font-weight:bold;
+    padding:0px;
+    margin:3px;
 }
 .phoneNoP{
     font-weight:bold;
+    padding:0px;
+    margin:3px;
 }
 .mySocialsP{
     font-weight:bold;
 }
 .projectsP{
     font-weight:bold;
+    padding:0px;
+    margin:0px;
 }
 .caluculater{
     font-weight:bold;
 }
 .caluculaterDiscriptionDiv{
     display:none;
+    padding:0px;
+    margin:0px;
 
 }
 .caluculater:hover  .caluculaterDiscriptionDiv{
@@ -71,9 +85,13 @@ hr{
 }
 .additionalSkillsP{
     font-weight: bold;
+    padding:0px;
+    margin:0px;
 }
 .moreAboutMeP{
     font-weight:bold;
+    padding:0px;
+    margin:0px;
 }
 .facebookIcon{
     height: 30px;
@@ -85,10 +103,14 @@ hr{
 }
 .mySocialsUl{
     display:block;
+    padding:0px;
+    margin:0px;
 }
 .instagramLi{
     display:inline-block;
     margin:-10px 10px;
+    padding:0px;
+    margin:0px;
 }
 .facebookLi{
     display:inline-block;
@@ -104,6 +126,8 @@ hr{
 }
 .addressDiv{
     display:block;
+    padding:0px;
+    margin:0px;
 }
 .personalInfo{
     margin:auto;
@@ -115,19 +139,44 @@ hr{
 }
 .mail{
     display:block;
+    padding:0px;
+    margin:0px;
 }
 .mailText{
     display:block;
+    padding:0px;
+    margin:0px;
 }
 .phoneNo{
     margin:auto;
+    padding:0px;
+    margin:0px;
 }
 .projectsUl{
     display:inline-flex;
     list-style-type:none;
+    padding:0px;
+    margin:0px;
 }
 .caluculaterLogoImg{
     height:3rem;
     margin:auto;
     padding:auto;
+}
+.printButtonDiv{
+    margin:0px;
+    padding:0px;
+    text-align: right;
+}
+.printButton{
+    margin:0px;
+    padding:0px;
+    width:3rem;
+    height:2rem;
+    border-radius:1rem;
+}
+.printButton:hover{
+    background-color:black;
+    color:white;
+    font-weight: bold;
 }
